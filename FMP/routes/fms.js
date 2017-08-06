@@ -15,7 +15,7 @@ globalService.addService(32.830971, 35.306499, 100,""); //zafon
 globalService.addService(32.387337, 34.933962, 50,""); //natania
 globalService.addService(31.850997, 34.783137, 80,""); //rishon
 globalService.addService(30.824218, 34.872739, 70,""); //beer sheva & mizpe
-globalService.addService(30.173561, 34.920229, 50,""); //eilat
+globalService.addService(30.173561, 34.920230, 50,""); //eilat
 
 
 var router = express.Router();
